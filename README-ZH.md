@@ -10,8 +10,9 @@
 
 - `git clone --depth=1 -b withoutmodel https://github.com/zpv2jdfc/DenoiseGAN.git DenoiseGAN`
 
-- 下载 [模型](http://v-ming.com/files/G.pth) 并把模型放在DenoiseGAN/gan/models目录下
+- 下载 [模型](http://v-ming.com/files/) 并把模型放在DenoiseGAN/gan/models目录下
 
+(如果你没用git命令而是下载了压缩包，请下载 [模型](http://v-ming.com/files/) 并把模型放在DenoiseGAN/gan/models目录下)
 #### 安装 [Anaconda](https://www.anaconda.com/products/distribution)
 . 打开目录
 

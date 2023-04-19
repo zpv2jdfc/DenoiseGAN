@@ -10,8 +10,9 @@
 
 - `git clone --depth=1 -b withoutmodel https://github.com/zpv2jdfc/DenoiseGAN.git DenoiseGAN`
 
-- download [model](http://v-ming.com/files/G.pth) and put it into `DenoiseGAN/gan/models`
+- download [model](http://v-ming.com/files/) and put it into `DenoiseGAN/gan/models`
 
+(If you haven't used git and download the zip file directly, you still need to download [model](http://v-ming.com/files/) and put it into `DenoiseGAN/gan/models`)
 #### install [Anaconda environment](https://www.anaconda.com/products/distribution)
 . open directory
 
